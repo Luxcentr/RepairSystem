@@ -1,0 +1,38 @@
+[
+  {
+    "Id": "e8d89480-de8c-4114-99cf-ddbae4f42fd3",
+    "DeviceName": "iPhone 14 Pro",
+    "ClientName": "\u0422\u0435\u0448\u0435\u0431\u0430\u0435\u0432 \u0420\u0430\u0430\u0442\u0431\u0435\u043A",
+    "Phone": "\u002B79855434849",
+    "Description": "\u0420\u0430\u0437\u0431\u0438\u0442 \u044D\u043A\u0440\u0430\u043D",
+    "CreatedAt": "2026-05-30T02:33:55.277285+03:00",
+    "CompletedAt": "2026-05-30T02:35:00.9694135+03:00",
+    "Status": "Done",
+    "Priority": "Normal",
+    "Cost": 5000
+  },
+  {
+    "Id": "a5d2acfd-acad-43b7-886a-3d0062fa7bfb",
+    "DeviceName": "Sumsung S21",
+    "ClientName": "\u0422\u0435\u0448\u0435\u0431\u0430\u0435\u0432 \u0420\u0430\u0430\u0442\u0431\u0435\u043A",
+    "Phone": "\u002B79855434849",
+    "Description": "\u0421\u043C\u0435\u043D\u0430 \u0430\u043A\u043A\u0443\u043C\u0443\u043B\u044F\u0442\u043E\u0440\u0430",
+    "CreatedAt": "2026-05-30T02:36:22.5617262+03:00",
+    "CompletedAt": null,
+    "Status": "InProgress",
+    "Priority": "Normal",
+    "Cost": 15000
+  },
+  {
+    "Id": "0a57d2ac-4fa7-4fb4-81a9-ce6b8c99a97b",
+    "DeviceName": "Realme G66",
+    "ClientName": "\u0422\u0435\u0448\u0435\u0431\u0430\u0435\u0432 \u0420\u0430\u0430\u0442\u0431\u0435\u043A",
+    "Phone": "\u002B79855434849",
+    "Description": "\u0420\u0430\u0437\u0431\u0438\u0442\u0430\u044F \u043A\u0430\u043C\u0435\u0440\u0430",
+    "CreatedAt": "2026-05-30T03:11:49.4943746+03:00",
+    "CompletedAt": null,
+    "Status": "New",
+    "Priority": "Low",
+    "Cost": 10000
+  }
+]
