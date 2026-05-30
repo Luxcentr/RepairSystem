@@ -16,4 +16,4 @@
 
 ## Запуск
 1. dotnet run
-2. Открыть http://localhost:5000/index.html
+2. Открыть http://localhost:5115/index.html
